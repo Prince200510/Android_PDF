@@ -1,2 +1,2 @@
 # Android_PDF
-CO-Computer Engineering, Mobile Application Development - MAD, Practical Output
+Diploma in Computer Engineering - CO,MAD - Mobile Application Development, Practical Output [1-32]
